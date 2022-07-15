@@ -1,0 +1,18 @@
+[
+    {
+        "question": "HTML is used for.?",
+        "option1": "Design web page",
+        "option2": "Data Cleaning for web page",
+        "option3": "Structuring web page",
+        "option4": "Hacking",
+        "correctAnswer": "option3"
+    },
+    {
+        "question": "CSS is used for.?",
+        "option1": "Designing web page",
+        "option2": "Data Cleaning for web page",
+        "option3": "Structuring web page",
+        "option4": "Server Data Capturing",
+        "correctAnswer": "option1"
+    }
+]
