@@ -49,14 +49,15 @@ body {
     margin-top: 10px;
 }
 
-#btn-div>button {
-    padding: 3px 6px;
+/* #btn-div>button */
+button {
+    padding: 10px 10px;
     margin: 4px 6px;
     border-radius: 5px;
     width: 70%;
     font-size: 120%;
     font-weight: bold;
-    height: 2.8rem;
+    /* height: 2.8rem; */
 }
 
 #previousBtn {
@@ -77,9 +78,22 @@ body {
     box-shadow: 2px 3px;
 }
 
+#startAgainBtn {
+    background: dodgerblue;
+    color: white;
+    border: 2px solid #222;
+}
+
+#startAgainBtn:hover {
+    background: rgb(18, 127, 236);
+    color: white;
+    box-shadow: 2px 3px rgb(14, 55, 96) 4px inset;
+}
+
 
 @media screen and (min-width: 420px) {
-    #btn-div>button {
+    /* #btn-div> */
+    button {
         width: 50%;
     }
 
@@ -99,11 +113,12 @@ body {
         flex-direction: row;
         justify-content: space-between;
         width: 90vw;
-        height: 3rem;
+        /* height: 3rem; */
         margin-top: 10px;
     }
 
-    #btn-div>button {
+    /* #btn-div> */
+    button {
         width: 30%;
     }
 
@@ -114,7 +129,8 @@ body {
 }
 
 @media screen and (min-width: 800px) {
-    #btn-div>button {
+    /* #btn-div> */
+    button {
         width: 20%;
     }
 

@@ -8,6 +8,30 @@
         "correctAnswer": "option3"
     },
     {
+        "question": "Who is the father of HTML?",
+        "option1": "Rasmus Lerdorf",
+        "option2": "Tim Berners-Lee",
+        "option3": "Brendan Eich",
+        "option4": "Sergey Brin",
+        "correctAnswer": "option2"
+    },
+    {
+        "question": "HTML stands for ______",
+        "option1": "HyperText Markup Language",
+        "option2": "HyperText Machine Language",
+        "option3": "HyperText Marking Language",
+        "option4": "HighText Marking Language",
+        "correctAnswer": "option1"
+    },
+    {
+        "question": "Which of the anchor attribute is used to specify the language of the linked document ?",
+        "option1": "alang",
+        "option2": "lang",
+        "option3": "hreflang",
+        "option4": "all the above",
+        "correctAnswer": "option3"
+    },
+    {
         "question": "CSS is used for.?",
         "option1": "Designing web page",
         "option2": "Data Cleaning for web page",
